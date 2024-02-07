@@ -20,7 +20,7 @@
         <div class="col-span-2">
           <div class="grid grid-cols-2">
             <div class="flex">
-              <img class="p-6" src="../assets/img/icon_gift_alt.svg" alt="" />
+              <img class="p-6" src="../assets/img/domain/icon_gift_alt.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5 text-gray-600">
                   <h1 class="text-xl py-5">SERVER ON YOUR BUDGET</h1>
@@ -33,7 +33,7 @@
               </div>
             </div>
             <div class="flex text-gray-600">
-              <img class="p-6" src="../assets/img/toolbox.svg" alt="" />
+              <img class="p-6" src="../assets/img/domain/toolbox.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-xl py-5">FREE WITH EVERY DOMAIN</h1>
@@ -51,7 +51,7 @@
               <div class="flex">
                 <img
                   class="p-6"
-                  src="../assets/img/icon_heart_alt.svg"
+                  src="../assets/img/domain/icon_heart_alt.svg"
                   alt=""
                 />
                 <div class="h-full">
@@ -68,7 +68,7 @@
                 </div>
               </div>
               <div class="flex text-gray-600">
-                <img class="p-6" src="../assets/img/icon_piechart.svg" alt="" />
+                <img class="p-6" src="../assets/img/domain/icon_piechart.svg" alt="" />
                 <div class="h-full">
                   <div class="mx-5">
                     <h1 class="text-xl py-5">
@@ -87,7 +87,7 @@
         </div>
 
         <div class="pt-5 pl-32">
-          <img class="h-96" src="../assets/img/support-team.png" alt="" />
+          <img class="h-96" src="../assets/img/domain/support-team.png" alt="" />
         </div>
       </div>
       <div class="bg-gray-600 h-40">
@@ -103,8 +103,8 @@
             </p>
           </div>
           <div class="my-10">
-            <div class="bg-yellow-400 h-20">
-              <p class="py-3 px-8">
+            <div class="bg-yellow-400 h-20  hover:text-white hover:bg-gray-700 hover:border-transparent focus:outline-none ">
+              <p class="py-3 px-[34px]">
                 Order Domain, Hosting & Hybrid <br />Servers / Dedicated Server
               </p>
             </div>

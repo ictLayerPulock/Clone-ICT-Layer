@@ -14,7 +14,7 @@
         <div class="grid  pl-48">
           <div class="grid grid-cols-2 py-6">
             <div class="flex">
-              <img class="p-6 h-24" src="../assets/img/icon_laptop.svg" alt="" />
+              <img class="p-6 h-24" src="../assets/img/web/icon_laptop.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-black text-xl py-5">RESPONSIVE WEB DESIGN</h1>
@@ -25,7 +25,7 @@
               </div>
             </div>
             <div class="flex">
-              <img class="p-6 h-24" src="../assets/img/icon_cart_alt.svg" alt="" />
+              <img class="p-6 h-24" src="../assets/img/web/icon_cart_alt.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-black text-lg py-5">E-COMMERCE DEVELOPMENT</h1>
@@ -36,7 +36,7 @@
               </div>
             </div>
             <div class="flex">
-              <img class="p-6 h-24" src="../assets/img/icon_tools.svg" alt="" />
+              <img class="p-6 h-24" src="../assets/img/web/icon_tools.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-black text-xl py-5">100% CUSTOM PHP WEB</h1>
@@ -45,7 +45,7 @@
               </div>
             </div>
             <div class="flex">
-              <img class="p-6" src="../assets/img/social_wordpress.svg" alt="" />
+              <img class="p-6" src="../assets/img/web/social_wordpress.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-black text-xl py-5">THEME, PLUGIN & MODULE</h1>
@@ -54,7 +54,7 @@
               </div>
             </div>
             <div class="flex">
-              <img class="p-6" src="../assets/img/social_facebook.svg" alt="" />
+              <img class="p-6" src="../assets/img/web/social_facebook.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-black text-xl py-5">SOCIAL APP DEVELOPMENT</h1>
@@ -63,7 +63,7 @@
               </div>
             </div>
             <div class="flex">
-              <img class="p-6" src="../assets/img/icon_pencil-edit.svg" alt="" />
+              <img class="p-6" src="../assets/img/web/icon_pencil-edit.svg" alt="" />
               <div class="h-full">
                 <div class="mx-5">
                   <h1 class="text-black text-xl py-5">BRANDING BANGLADESH</h1>

@@ -2,7 +2,7 @@
   <!-- TW Elements is free under AGPL, with commercial license required for specific uses. See more details: https://tw-elements.com/license/ and contact us for queries at tailwind@mdbootstrap.com -->
   <div
     id="carouselExampleCaptions"
-    class=" h-64"
+    class="h-64 absolute top-0"
     data-te-carousel-init
     data-te-ride="carousel"
   >
@@ -38,11 +38,11 @@
 
     <!--Carousel items-->
     <div
-      class=" pb-20 w-full overflow-hidden after:clear-both after:block after:content-['']"
+      class="pb-20 w-full overflow-hidden after:clear-both after:block after:content-['']"
     >
       <!--First item-->
       <div
-        class=" float-left -mr-[100%] w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
+        class="float-left -mr-[100%] w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
         data-te-carousel-active
         data-te-carousel-item
         style="backface-visibility: hidden"
@@ -53,15 +53,15 @@
           alt="..."
         />
         <div
-          class=" inset-x-[15%] bottom-5 hidden py-5 text-center text-white md:block"
+          class="inset-x-[15%] bottom-5 hidden py-5 text-center text-white md:block"
         >
-          <h5 class="text-xl">First slide label</h5>
-          <p>Some representative placeholder content for the first slide.</p>
+          <!-- <h5 class="text-xl">First slide label</h5> -->
+          <!-- <p>Some representative placeholder content for the first slide.</p> -->
         </div>
       </div>
       <!--Second item-->
       <div
-        class=" float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
+        class="float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
         data-te-carousel-item
         style="backface-visibility: hidden"
       >
@@ -71,7 +71,7 @@
           alt="..."
         />
         <div
-          class=" inset-x-[15%] bottom-5 hidden py-5 text-center text-white md:block"
+          class="inset-x-[15%] bottom-5 hidden py-5 text-center text-white md:block"
         >
           <h5 class="text-xl">Second slide label</h5>
           <p>Some representative placeholder content for the second slide.</p>
@@ -79,7 +79,7 @@
       </div>
       <!--Third item-->
       <div
-        class=" float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
+        class="float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
         data-te-carousel-item
         style="backface-visibility: hidden"
       >
@@ -155,3 +155,5 @@
     </button>
   </div>
 </template>
+
+

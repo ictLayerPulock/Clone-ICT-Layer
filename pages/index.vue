@@ -1,7 +1,8 @@
 <template>
   <div class="flex flex-col min-h-screen font-roboto">
     <Slider />
-    <div class="py-96"></div>
+    <div class="py-72"></div>
+    <Portfolio />
 
     <WebDesignDevelopment />
     <div class="py-10"></div>
@@ -14,6 +15,18 @@
     <div class="h-20"></div>
 
     <NewsLetter />
+    <clients />
+
+
   </div>
 </template>
   
+<!-- <script>
+import Carousel from '~/components/Carousel.vue'; // Import the TailwindSlider component
+
+export default {
+  components: {
+    Carousel
+  }
+}
+</script> -->
