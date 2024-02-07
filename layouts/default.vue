@@ -1,9 +1,12 @@
 <template>
- <Header />
- <!-- <Navbar /> -->
-  <div>
-    <slot />
-  </div>
+  <!-- <Header /> -->
+  <div class="relative">
+    <Navbar />
 
-    <Footer/>
+    <div>
+      <slot />
+    </div>
+
+    <Footer />
+  </div>
 </template>

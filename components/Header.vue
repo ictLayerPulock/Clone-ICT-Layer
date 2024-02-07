@@ -23,7 +23,7 @@
               />
             </NuxtLink>
 
-            <div class="hidden sm:block pl-64">
+            <div class=" pl-64">
               <div class="flex space-x-1">
                 <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
 
@@ -38,9 +38,10 @@
                   />
                   <p class="pt-4 text-neutral-50">HOME</p>
                 </NuxtLink>
+
                 <NuxtLink
                   to="/"
-                  class="bg-gray-100 text-gray-400 p-10 text-sm font-medium mx-0 hover:bg-orange-600 "
+                  class="bg-gray-100 text-gray-400 p-10 text-sm font-medium mx-0 hover:bg-orange-600"
                 >
                   <img
                     class="p-2 mx-auto rounded-full ring-2 ring-gray-400 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"

@@ -16,9 +16,4 @@
     focus:ring-purple-600
     focus:ring-offset-2
 } */
-@layer components{
-    .navbaLi{
-        @apply  cursor-pointer duration-300;
-    }
-}
 

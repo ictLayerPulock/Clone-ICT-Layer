@@ -1,52 +1,95 @@
 <template>
   <footer>
-    <div class="container sm:flex-row items-center mx-auto py-6">
-      <div class="columns-4 items-center">
-        <img
-          class="px-10 w-19 aspect-square h-19"
-          src="../assets/img/basis.png"
-        />
-        <img
-          class="w-19 aspect-square h-19"
-          src="../assets/img/Amazon-AWS-Bangladesh.png"
-        />
-        <img
-          class="w-19 aspect-square h-19"
-          src="../assets/img/ICT-Division-Bangladesh.png"
-        />
-        <img
-          class="w-19 aspect-square h-19"
-          src="../assets/img/Oracle-Cloud-Solutions-Bangladesh.png"
-        />
+    <div class="flex">
+      <div class="bg-white h-24 w-[20%]"></div>
+      <div class="bg-gray-300 h-24 w-[6%]">
+        <div class="box-border h-30 w-30 p-4 bg-gray-300">
+          <img class="pt-16 pl-6" src="../assets/img/logo.png" alt="" />
+        </div>
       </div>
+      <div class="bg-orange-600 h-[118PX] w-[20%]">
+        <p class="text-white text-2xl p-6">
+          LOVE HEARING <br />
+          FROM YOU
+        </p>
+      </div>
+      <div class="bg-orange-600 h- w-[54%]">
+        <div class="flex justify-between">
+          <div>
+            <p class="text-white text-xl py-4">OUR PARTNERS</p>
+          </div>
+          <div class="flex justify-start">
+            <p class="text-white text-xl p-4 pr-[500px]">CONTACT INFO</p>
+          </div>
+        </div>
+      </div>
+      <div class="h-3 bg-gray-400"></div>
     </div>
-    <div class="h-100 py-10"></div>
-    <div class=" container  mx-auto">
-      <div
-        class="mx-auto box-border h-32 w-32   bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2"
-      >
-        <img
-          class="p-2 pt-20 pl-12 mx-auto rounded-full sm:mx-0 sm:flex-shrink-0 transform duration-500"
-          src="../assets/img/logo.png"
-          alt=""
-        /><!-- ... -->
+
+    <div class="flex">
+      <div class="bg-gray-800 h-28 w-[20%]"></div>
+      <div class="bg-orange-600 h-28 w-[26%]">
+        <ul class="flex items-center gap-3 p-8">
+          <li class=" ">
+            <img
+              class="p-1 mx-auto rounded-full ring-2 ring-neutral-50 hover:bg-gray-600 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
+              src="../assets/img/social_facebook.svg"
+              alt=""
+            />
+          </li>
+          <li class="">
+            <img
+              class="p-1 mx-auto rounded-full ring-2 ring-neutral-50 hover:bg-gray-600 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
+              src="../assets/img/social_twitter.svg"
+              alt=""
+            />
+          </li>
+          <li class="">
+            <img
+              class="p-1 mx-auto rounded-full ring-2 ring-neutral-50 hover:bg-gray-600 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
+              src="../assets/img/social_linkedin.svg"
+              alt=""
+            />
+          </li>
+          <li class="">
+            <img
+              class="p-1 mx-auto rounded-full ring-2 ring-neutral-50 hover:bg-gray-600 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
+              src="../assets/img/social_youtube.svg"
+              alt=""
+            />
+          </li>
+        </ul>
+      </div>
+      <div class="bg-gray-400 h-28 w-[20%]">
+       <a href="">
+        <div class="pl-5">
+          <img src="../assets/img/icon_cloud_alt.svg" alt="">
+          <p>Cloud Oracle Hosting</p>
+          <p>Web Hosting Department</p>
+        </div>
+       </a>
+  
+      </div>
+      <div class="bg-red-200 h-28 w-[34%]">
+        <div class="flex pl-5">
+          <img src="../assets/img/mail.svg" alt="">
+          <a class="p-5" href="mailto:ictlayer@gmail.com">info@gmail.com, ictlayer@gmail.com</a>
+        </div>
       </div>
     </div>
 
-    <div
-      class=" flex flex-cjol sm:flex-row items-center gap-4 text-white py-8 bg-gray-700 mx-auto"
-    >
-      <div class="w-full h-24 border-b[1px] border-gray-500 text-gary-100">
-        <div
-          class="max-w-screen-2xl mx-auto px-8 pt-16 flex items-center justify-between"
-        >
-          <ul class="flex items-center gap-8">
-            <li class="">Blog & News</li>
-            <li class="">Contuct & Support</li>
-            <li class="">Domain & Hosting</li>
-          </ul>
-          <div>@ICT Layer</div>
-        </div>
+    <div class="flex">
+      <div class="bg-gray-800 h-28 w-[66%]">
+        <ul class="flex items-center gap-8 pl-96 pt-16 text-gray-400">
+          <li class="hover:text-orange-600"><a href="">Blog & News</a></li>
+          <li class="hover:text-orange-600">
+            <a href="">Contuct & Support</a>
+          </li>
+          <li class="hover:text-orange-600"><a href="">Domain & Hosting</a></li>
+        </ul>
+      </div>
+      <div class="bg-rose-300 h-28 w-[34%]">
+        <div class="text-center py-10 text-gray-600">@ICT Layer</div>
       </div>
     </div>
   </footer>
