@@ -7,8 +7,8 @@
       <slot />
     </div>
 
-    <FooterSectionVerTwo />
-    <!-- <FooterSection /> -->
+
+    <FooterSection />
     <!-- <Footer /> -->
   </div>
 </template>
