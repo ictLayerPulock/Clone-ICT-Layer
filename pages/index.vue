@@ -14,11 +14,15 @@
     <DomainHosting />
     <div class="h-20"></div>
 
-    <NewsLetter />
+    <NewsLetterSection />
+    <!-- <NewsLetter /> -->
+
+
+
     <clients />
 
 
-    <Demo />
+    <!-- <Demo /> -->
 
 
   </div>
