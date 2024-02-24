@@ -11,7 +11,10 @@
     <AddMarketing />
 
     <div class="h-20"></div>
-    <DomainHosting />
+    <DomainSection />
+
+
+    <!-- <DomainHosting /> -->
     <div class="h-20"></div>
 
     <NewsLetterSection />

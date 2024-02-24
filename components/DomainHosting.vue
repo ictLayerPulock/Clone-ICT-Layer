@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pt-10">
     <div class="grid grid-cols-2">
       <div class="grid grid-cols-2">
         <div class="bg-orange-400 h-20"></div>
