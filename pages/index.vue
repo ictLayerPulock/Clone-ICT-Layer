@@ -8,10 +8,15 @@
     <div class="py-10"></div>
     <Android />
     <div class="py-10"></div>
-    <AddMarketing />
+    <!-- <AddMarketing /> -->
 
     <div class="h-20"></div>
-    <DomainSection />
+    <MarketingSection />
+
+<div class="py-10">
+   <DomainSection />
+</div>
+   
 
 
     <!-- <DomainHosting /> -->
