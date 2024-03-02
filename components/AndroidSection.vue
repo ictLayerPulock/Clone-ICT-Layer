@@ -7,22 +7,16 @@
         <div class="bg-gray-300 col-span-6 my-7"></div>
     </div>
     <div class="grid grid-cols-2">
-        <div class=" ">
-            <div class="grid grid-cols-1">
-                <div class="pt-32">01</div>
-                <!-- ... -->
-                <div class="bg-[#c4c6c8]"><img class="h-48 " src="../assets/img/android/iphone.png" alt="Android" /></div>
-                <div>09</div>
-            </div>
+        <div class="grid grid-cols-10 pt-16">
+            <div class="col-span-6 bg-[#c4c6c8] mb-16 mt-32"></div>
+            <div class="col-span-2"> <img class="h-[390px]" src="../assets/img/android/iphone.png" alt="Android" /></div>
+            <div class="col-span-2 bg-[#c4c6c8] mb-16 mt-32"></div>
         </div>
-        <!-- <div class="h-56 bg-[#c4c6c8] pt-32">
-            <img class="h-96 pl-96" src="../assets/img/android/iphone.png" alt="Android" />
-        </div> -->
-        <div class="...">
+        <div class=" pt-24">
             <div class="flex">
                 <div class="flex-none">
                     <div
-                        class="grid place-items-center box-border p-4 bg-orange-600  hover:text-white hover:bg-gray-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2">
+                        class="grid place-items-center box-border p-4 bg-[#ff5722]  hover:text-white hover:bg-gray-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2">
                         <img class="p-4 mx-auto rounded-full ring-2 ring-neutral-50 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
                             src="../assets/img/android/icon_desktop.svg" alt="" />
                     </div>
@@ -44,7 +38,7 @@
             <div class="flex py-5">
                 <div class="flex-none">
                     <div
-                        class="grid place-items-center box-border p-4 bg-orange-600 hover:text-white hover:bg-gray-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2">
+                        class="grid place-items-center box-border p-4 bg-[#ff5722] hover:text-white hover:bg-gray-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2">
                         <img class="p-4 mx-auto rounded-full ring-2 ring-neutral-50 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
                             src="../assets/img/android/icon_cart_alt.svg" alt="" /><!-- ... -->
                     </div>
@@ -66,7 +60,7 @@
             <div class="flex">
                 <div class="flex-none">
                     <div
-                        class="grid place-items-center box-border p-4 bg-orange-600 hover:text-white hover:bg-gray-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2">
+                        class="grid place-items-center box-border p-4 bg-[#ff5722] hover:text-white hover:bg-gray-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2">
                         <img class="p-4 mx-auto rounded-full ring-2 ring-neutral-50 sm:mx-0 sm:flex-shrink-0 transform hover:scale-105 duration-500"
                             src="../assets/img/android/service.svg" alt="" /><!-- ... -->
                     </div>
