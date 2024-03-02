@@ -1,19 +1,50 @@
 <template>
   <div class="flex flex-col min-h-screen font-roboto">
     <Slider />
-    <div class="py-96"></div>
+  
+    <div class="pt-64"> <Portfolio /></div>
+   
+ <div class="h-10"></div>
+    <!-- <WebDesignDevelopment /> -->
+    <WebDesignSection />
+  
+    <AndroidSection />
+    <!-- <Android /> -->
+  
+    <!-- <AddMarketing /> -->
 
-    <WebDesignDevelopment />
-    <div class="py-10"></div>
-    <Android />
-    <div class="py-10"></div>
-    <AddMarketing />
+    <div class="pt-5">
+    <MarketingSection />
+  </div>
+<div class="py-10">
+   <DomainSection />
+</div>
+   
 
-    <div class="h-20"></div>
-    <DomainHosting />
-    <div class="h-20"></div>
 
-    <NewsLetter />
+    <!-- <DomainHosting /> -->
+
+
+    <NewsLetterSection />
+    <!-- <NewsLetter /> -->
+
+
+
+    <clients />
+
+
+    <!-- <Demo /> -->
+
+
   </div>
 </template>
   
+<!-- <script>
+import Carousel from '~/components/Carousel.vue'; // Import the TailwindSlider component
+
+export default {
+  components: {
+    Carousel
+  }
+}
+</script> -->
