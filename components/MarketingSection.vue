@@ -1,7 +1,6 @@
 <template>
   
-    TODO:bg-image can't find from assets img folder
-    (../assets/img/feature7-bg.jpg) 
+  <!-- bg-image can't find from assets img folder (../assets/img/feature7-bg.jpg)  -->
     <div
       class="bg-cover bg-orange-300"
       style="
@@ -10,7 +9,7 @@
     >
       <div class="grid grid-cols-5">
         <div class=""></div>
-        <div class="bg-[#ff5722] pt-5">
+        <div class="bg-[#ff5722]">
           <div class="p-5">
             <p class="text-white text-2xl py-3">DO YOUR WANT <br> FACEBOOK ADS MARKETING/ <br>GOOGLE ADS MARKETING<br>IN BANGLADESH?</p>
             <br />

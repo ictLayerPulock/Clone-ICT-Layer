@@ -1,18 +1,21 @@
 <template>
   <div class="flex flex-col min-h-screen font-roboto">
     <Slider />
-    <div class="py-72"></div>
-    <Portfolio />
-
-    <WebDesignDevelopment />
-    <div class="py-10"></div>
-    <Android />
-    <div class="py-10"></div>
+  
+    <div class="pt-64"> <Portfolio /></div>
+   
+ <div class="h-10"></div>
+    <!-- <WebDesignDevelopment /> -->
+    <WebDesignSection />
+  
+    <AndroidSection />
+    <!-- <Android /> -->
+  
     <!-- <AddMarketing /> -->
 
-    <div class="h-20"></div>
+    <div class="pt-5">
     <MarketingSection />
-
+  </div>
 <div class="py-10">
    <DomainSection />
 </div>
@@ -20,7 +23,7 @@
 
 
     <!-- <DomainHosting /> -->
-    <div class="h-20"></div>
+
 
     <NewsLetterSection />
     <!-- <NewsLetter /> -->

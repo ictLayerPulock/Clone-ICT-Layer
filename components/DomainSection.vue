@@ -2,11 +2,11 @@
   <div class="grid grid-cols-10">
     <div class="bg-[#ffab90] col-span-2"></div>
     <div class="bg-[#ff5722] col-span-3">
-      <p class="p-7 text-xl text-center text-gray-50">
+      <p class="py-3 text-xl text-center text-gray-50">
         ICT LAYER, VPS SERVER, DEDICATED SERVER & DOMAIN
       </p>
     </div>
-    <div class="bg-gray-300 col-span-5 my-10"></div>
+    <div class="bg-gray-300 col-span-5 my-6"></div>
   </div>
 
   <div class="grid grid-cols-10 bg-gray-100">
@@ -96,7 +96,7 @@
   </div>
 
   <div class="grid grid-cols-10">
-    <div class="bg-gray-100 col-span-2">01</div>
+    <div class="bg-gray-100 col-span-2"></div>
     <div class="bg-[#4b4e53] col-span-4">
       <p class="text-xl text-gray-50 p-5">
         FULLY CUSTOM MADE-BUNDLES TO HELP YOU GET WEBSITES ONLINE.
